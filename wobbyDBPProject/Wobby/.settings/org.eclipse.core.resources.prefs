@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/controller/board/CreateCommentController.java=UTF-8
+encoding//src/controller/board/DeleteCommentController.java=UTF-8
+encoding//src/controller/board/UpdateCommentController.java=UTF-8
+encoding//src/controller/club/CreateClubController.java=UTF-8
+encoding//src/controller/scrap/CreateScrapController.java=UTF-8
+encoding//src/controller/scrap/DeleteScrapController.java=UTF-8
+encoding//src/controller/scrap/ListScrapController.java=UTF-8
+encoding//src/controller/user/LoginController.java=UTF-8
+encoding//src/controller/user/RegisterUserController.java=UTF-8
+encoding//src/persistence/dao/impl/ClubDAOImpl.java=UTF-8
+encoding//src/persistence/dao/impl/CommentDAOImpl.java=UTF-8
+encoding//src/persistence/dao/impl/PostDAOImpl.java=UTF-8
+encoding//src/persistence/dao/impl/ScrapBoxDAOImpl.java=UTF-8
+encoding//src/persistence/dao/impl/UserDAOImpl.java=UTF-8
+encoding//src/service/CommunityManager.java=UTF-8
+encoding//src/service/UserManager.java=UTF-8
