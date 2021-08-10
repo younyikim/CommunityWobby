@@ -27,3 +27,19 @@
 2. 지역 취미 매칭 : 본인 거주지에서 자신과 같은 취미를 가진 사람을 매칭해 준다.    
 3. 실시간 인기 취미와 동호회를 추천해 준다.
 4. 이용자의 성향(MBTI)에 맞는 취미와 동호회를 추천해 준다.
+
+![image](/wobbyDBPProject/image/logic.PNG)
+--------------------------------            
+
+
+Wobby 커뮤니티 메인 화면    |  로그인 화면
+:-------------------------:|:-------------------------:
+<img src="/wobbyDBPProject/image/wobby-main.PNG"> |<img src="/wobbyDBPProject/image/wobby-login.PNG">
+Wobby 커뮤니티 로그인 후, 메인 화면  | 
+<img src="/wobbyDBPProject/image/wobby-afterlogin.PNG">|
+회원가입 1   | 회원가입 2
+<img src="/wobbyDBPProject/image/wobby-regi1.PNG">| <img src="/wobbyDBPProject/image/wobby-regi2.PNG" height="100%">
+게시판   | 글쓰기 화면
+<img src="/wobbyDBPProject/image/wobby-board-main.PNG">| <img src="/wobbyDBPProject/image/wobby-board.PNG">
+게시물 화면과 댓글 기능   | 매칭 화면
+<img src="/wobbyDBPProject/image/wobby-writecomment.PNG">| <img src="/wobbyDBPProject/image/wobby-match.PNG">
